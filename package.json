@@ -1,7 +1,18 @@
 {
-  "name": "client",
+  "name": "sdk-client",
   "version": "0.1.0",
-  "private": true,
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maranesi/sdk-client.git"
+  },
+  "author": "Bruno Maranesi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maranesi/sdk-client/issues"
+  },
+  "homepage": "https://github.com/maranesi/sdk-client#readme",
   "dependencies": {
     "@material-ui/core": "^4.9.12",
     "@material-ui/icons": "^4.9.1",
